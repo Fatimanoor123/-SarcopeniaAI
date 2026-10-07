@@ -72,19 +72,21 @@ Use these exact filenames:
 
 ### 1. SarcopeniaAI Interface
 
-![SarcopeniaAI Home](assets/screenshots/01_home.png)
+<img width="1894" height="909" alt="S1" src="https://github.com/user-attachments/assets/112e3744-6308-41ed-a8fe-c05596a9156b" />
 
 ### 2. Ultrasound and Clinical Inputs
 
-![Ultrasound and Clinical Inputs](assets/screenshots/02_inputs.png)
+<img width="1864" height="912" alt="S2" src="https://github.com/user-attachments/assets/7251d387-f544-4024-9f75-3be2c862458b" />
+
 
 ### 3. Multimodal Assessment Result
 
-![Multimodal Assessment Result](assets/screenshots/03_prediction.png)
+<img width="1872" height="921" alt="S3" src="https://github.com/user-attachments/assets/9049e208-849c-4721-b521-b1ec969105c4" />
 
 ### 4. Explainability / Grad-CAM
 
-![Explainability](assets/screenshots/04_explainability.png)
+<img width="1910" height="856" alt="S4" src="https://github.com/user-attachments/assets/fac9500f-f66e-4116-842b-896e3e179d2c" />
+
 
 ------------------------------------------------------------------------
 
