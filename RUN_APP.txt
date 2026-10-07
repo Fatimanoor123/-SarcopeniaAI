@@ -1,0 +1,39 @@
+SarcopeniaAI — Run Locally
+
+1. Open terminal inside this project folder.
+
+2. Install packages:
+
+   pip install -r requirements.txt
+
+3. Start Streamlit:
+
+   streamlit run app.py
+
+4. Open the local URL shown by Streamlit.
+
+Required model files:
+
+models/sarcopenia_multimodal_final.pth
+models/clinical_scaler.pkl
+
+The application accepts:
+
+- RF ultrasound
+- VL ultrasound
+- TA ultrasound
+- Age
+- Height
+- Weight
+- Sex
+
+Supported image formats:
+
+- DICOM (.dcm)
+- PNG
+- JPG
+- JPEG
+
+IMPORTANT:
+Research/educational prototype only.
+Not for clinical diagnosis.

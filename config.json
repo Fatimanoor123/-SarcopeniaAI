@@ -1,0 +1,24 @@
+{
+    "project": "SarcopeniaAI",
+    "task": "Research-oriented low muscle strength assessment",
+    "target": "low_muscle_strength",
+    "clinical_features": [
+        "Age",
+        "Taille",
+        "Poids",
+        "Sexe"
+    ],
+    "muscles": [
+        "RF",
+        "VL",
+        "TA"
+    ],
+    "image_size": 224,
+    "image_channels": 3,
+    "image_encoder": "ResNet18",
+    "image_feature_dimension": 512,
+    "clinical_feature_dimension": 8,
+    "fusion_feature_dimension": 520,
+    "classification_threshold": 0.5,
+    "research_disclaimer": "Research and educational prototype. Not intended for clinical diagnosis."
+}

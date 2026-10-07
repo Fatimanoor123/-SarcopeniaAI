@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Colab / Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+venv/
+.venv/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Raw medical data
+data/
+dataset/
+*.dcm
+
+# Temporary files
+tmp/
+temp/

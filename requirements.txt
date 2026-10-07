@@ -1,0 +1,11 @@
+streamlit
+torch
+torchvision
+numpy
+pandas
+scikit-learn
+joblib
+Pillow
+pydicom
+pylibjpeg
+pylibjpeg-libjpeg
