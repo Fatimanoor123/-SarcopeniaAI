@@ -1,0 +1,7 @@
+{
+    "patient_id": "BM103",
+    "true_target": 1,
+    "probability": 0.6471772789955139,
+    "prediction": 1,
+    "interpretation": "Model output indicates higher probability of low muscle strength."
+}

@@ -1,0 +1,5 @@
+Model,Modality,Validation AUC,Patient Test AUC,Patient Test Accuracy
+Custom CNN,Ultrasound,,0.55,0.679
+ResNet18,Ultrasound,0.647,0.5,0.667
+Clinical MLP,Clinical,0.611,,
+Multimodal Fusion,RF + VL + TA + Clinical,0.5333333333333334,0.0,0.7142857142857143
